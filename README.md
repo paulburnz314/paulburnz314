@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulburnz314 aka Paul Burns
-- 👀 I’m interested in python and QGIS
-- 🌱 I’m currently learning pandas for python and other numeral systems besides base 10
+- 👀 I’m interested in python minecraft modding and QGIS
+- 🌱 I’m currently learning using weather APIs, pandas dataframes, gspread for python.
 - 💞️ I’m looking to collaborate on using python to control realtime monitoring for wastewater treatment
 - 📫 Reach me at gmail burnz314
 
